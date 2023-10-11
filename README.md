@@ -37,3 +37,7 @@ Inside getUserChoice(), write an if/else statement that makes sure the userInput
 
 #4 Test the function by calling it with valid and invalid input, and printing the results to the console.
 You can delete this when you know your function works.
+
+#5 Now we need to have the computer make a choice.
+
+Create a new function named getComputerChoice with no parameters. Inside its block, utilize Math.random() and Math.floor() to get a whole number between 0 and 2. Then, depending on the number, return either 'rock', 'paper', or 'scissors'.
