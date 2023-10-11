@@ -75,3 +75,9 @@ Inside the playGame() function, create a variable named userChoice set equal to 
 Create another variable named computerChoice, and set it equal to the result of calling getComputerChoice().
 
 Under both of these variables, use console.log to print them to the console.
+
+#13 Finally, let’s determine who won.
+
+Inside the playGame() function, call the determineWinner() function. Pass in the userChoice and computerChoice variables as its parameters. Make sure to put this function call inside of a console.log() statement so you can see the result.
+
+Then, to start the game, call the playGame() function on the last line of your program.
