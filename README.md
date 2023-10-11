@@ -34,3 +34,5 @@ Using const and arrow function syntax, create a function named getUserChoice tha
 #3 When getting the user’s choice, you should also check to make sure that the user typed a valid choice: ‘rock’, ‘paper’, or ‘scissors’.
 
 Inside getUserChoice(), write an if/else statement that makes sure the userInput is either 'rock', 'paper', or 'scissors'. If it does, then return the userInput. If not, use console.log to print an error message to the console.
+
+#4 Test the function by calling it with valid and invalid input, and printing the results to the console.
