@@ -55,3 +55,7 @@ Let’s deal with the tie condition first. Within the determineWinner() function
 #8 If the game is not a tie, you’ll need to determine a winner.
 
 Begin by writing an if statement that checks if the userChoice is 'rock'. Inside the if statement’s block, write another if/else statement. The inner if/else should check if the computerChoice is 'paper'. If so, return a message that the computer won. If not, return a message that the user won.
+
+#9 Next, write another if statement for if the userChoice is 'paper'.
+
+Inside this if statement, the computerChoice must be either 'scissors' or 'rock'. Write logic that will return a winner.
