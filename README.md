@@ -24,3 +24,7 @@ Compare the two choices and determine a winner.
 Start the program and display the results.
 
 # Tasks
+
+#1 The user should be able to choose ‘rock’, ‘paper’, or ‘scissors’ when the game starts.
+
+Using const and arrow function syntax, create a function named getUserChoice that takes a single parameter userInput.
