@@ -45,3 +45,9 @@ Create a new function named getComputerChoice with no parameters. Inside its blo
 #6 Test the function by calling it multiple times and printing the results to the console.
 
 You can delete this when you know your function works.
+
+#7 Now it’s time to determine a winner.
+
+Create a function named determineWinner that takes two parameters named userChoice and computerChoice. This function will compare the two choices played and then return if the human player won, lost, or tied.
+
+Let’s deal with the tie condition first. Within the determineWinner() function, write an if statement that checks if the userChoice parameter equals the computerChoice parameter. If so, return a string that the game was a tie.
