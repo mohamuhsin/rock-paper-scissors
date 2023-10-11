@@ -41,3 +41,7 @@ You can delete this when you know your function works.
 #5 Now we need to have the computer make a choice.
 
 Create a new function named getComputerChoice with no parameters. Inside its block, utilize Math.random() and Math.floor() to get a whole number between 0 and 2. Then, depending on the number, return either 'rock', 'paper', or 'scissors'.
+
+#6 Test the function by calling it multiple times and printing the results to the console.
+
+You can delete this when you know your function works.
