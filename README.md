@@ -65,3 +65,13 @@ Inside this if statement, the computerChoice must be either 'scissors' or 'rock'
 Inside of this if statement, the computerChoice must either be 'rock' or 'paper'. Write logic that will return a winner.
 
 #11 Don’t forget to test your function!
+
+#12 Everything is set up. Now you need to start the game and log the results.
+
+Create a function named playGame.
+
+Inside the playGame() function, create a variable named userChoice set equal to the result of calling getUserChoice(), passing in either 'rock', 'paper', or 'scissors' as an argument.
+
+Create another variable named computerChoice, and set it equal to the result of calling getComputerChoice().
+
+Under both of these variables, use console.log to print them to the console.
