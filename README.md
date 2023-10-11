@@ -83,3 +83,6 @@ Inside the playGame() function, call the determineWinner() function. Pass in the
 Then, to start the game, call the playGame() function on the last line of your program.
 
 #14 Make this game better by adding a secret cheat code. If a user types 'bomb' as their choice, then make sure they win, no matter what.
+
+# Note
+After you have completed the tasks, push your code to github!
