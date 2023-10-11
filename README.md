@@ -59,3 +59,7 @@ Begin by writing an if statement that checks if the userChoice is 'rock'. Inside
 #9 Next, write another if statement for if the userChoice is 'paper'.
 
 Inside this if statement, the computerChoice must be either 'scissors' or 'rock'. Write logic that will return a winner.
+
+#10 Next, write yet another if statement for if the userChoice is 'scissors'.
+
+Inside of this if statement, the computerChoice must either be 'rock' or 'paper'. Write logic that will return a winner.
