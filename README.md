@@ -36,3 +36,4 @@ Using const and arrow function syntax, create a function named getUserChoice tha
 Inside getUserChoice(), write an if/else statement that makes sure the userInput is either 'rock', 'paper', or 'scissors'. If it does, then return the userInput. If not, use console.log to print an error message to the console.
 
 #4 Test the function by calling it with valid and invalid input, and printing the results to the console.
+You can delete this when you know your function works.
