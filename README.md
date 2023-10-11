@@ -81,3 +81,5 @@ Under both of these variables, use console.log to print them to the console.
 Inside the playGame() function, call the determineWinner() function. Pass in the userChoice and computerChoice variables as its parameters. Make sure to put this function call inside of a console.log() statement so you can see the result.
 
 Then, to start the game, call the playGame() function on the last line of your program.
+
+#14 Make this game better by adding a secret cheat code. If a user types 'bomb' as their choice, then make sure they win, no matter what.
